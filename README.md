@@ -1,2 +1,2 @@
 # readme
-Dev Immersion - Mondays 9 - 5
+Fullstack Mobile Hybrid Development M-F 9-5
